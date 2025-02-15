@@ -42,11 +42,12 @@ body{
 
 .product-description{
 	color: #808080;
+	
 }
-.product-price{
-	font-size: 30px;
+.product-prices{
+	
 	color: #353535;
-	margin: 20px 0;
+	margin: 10px 0;
     padding-bottom: 20px;
 }
 .card-footer{
